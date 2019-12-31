@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22ca625b-bd5c-4ccc-9a84-656f1e83e052" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgvbM0SjdWgEuN3ZH1qxjF8v5K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.FundooPushTesting.givenFundooPush_OnPOSTHashtagEdit_ShouldReturnSuccessfullMessage">
+    <configuration name="FundooPushTesting.givenFundooPush1_OnPOSTWithoutHashtagSymbolEdit_ShouldReturnErrorMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fundoopush.FundooPushTesting.givenFundooPush1_OnPOSTWithoutHashtagSymbolEdit_ShouldReturnErrorMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FundooPushTesting.givenFundooPush_OnGETWithoutParameterRedirect_ShouldReturnSuccessfullMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fundoopush.FundooPushTesting.givenFundooPush_OnGETWithoutParameterRedirect_ShouldReturnSuccessfullMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FundooPushTesting.givenFundooPush_OnPOSTHashtagEdit_ShouldReturnSuccessfullMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fundoopush.FundooPushTesting.givenFundooPush_OnPOSTHashtagEdit_ShouldReturnSuccessfullMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FundooPushTesting.givenFundooPush_OnPOSTJobs_ShouldReturnSuccessfullMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fundoopush.FundooPushTesting.givenFundooPush_OnPOSTJobs_ShouldReturnSuccessfullMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FundooPushTesting.givenFundooPush_OnPUTUpdateRedirectLinkWrong_ShouldReturnErrorMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fundoopush.FundooPushTesting.givenFundooPush_OnPUTUpdateRedirectLinkWrong_ShouldReturnErrorMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FundooPushTesting.givenFundooPush_OnPOSTHashtagEdit_ShouldReturnSuccessfullMessage" />
+        <item itemvalue="Gradle.FundooPushTesting.givenFundooPush1_OnPOSTWithoutHashtagSymbolEdit_ShouldReturnErrorMessage" />
+        <item itemvalue="Gradle.FundooPushTesting.givenFundooPush_OnGETWithoutParameterRedirect_ShouldReturnSuccessfullMessage" />
+        <item itemvalue="Gradle.FundooPushTesting.givenFundooPush_OnPUTUpdateRedirectLinkWrong_ShouldReturnErrorMessage" />
+        <item itemvalue="Gradle.FundooPushTesting.givenFundooPush_OnPOSTJobs_ShouldReturnSuccessfullMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22ca625b-bd5c-4ccc-9a84-656f1e83e052" name="Default Changelist" comment="" />
+      <created>1577687622280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577687622280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1167" height="229" key="GridCell.Tab.0.bottom" timestamp="1577798270010">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="229" key="GridCell.Tab.0.bottom/67.27.1213.997@67.27.1213.997" timestamp="1577798270010" />
+    <state width="1167" height="229" key="GridCell.Tab.0.center" timestamp="1577798270009">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="229" key="GridCell.Tab.0.center/67.27.1213.997@67.27.1213.997" timestamp="1577798270009" />
+    <state width="1167" height="229" key="GridCell.Tab.0.left" timestamp="1577798270009">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="229" key="GridCell.Tab.0.left/67.27.1213.997@67.27.1213.997" timestamp="1577798270009" />
+    <state width="1167" height="229" key="GridCell.Tab.0.right" timestamp="1577798270010">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="229" key="GridCell.Tab.0.right/67.27.1213.997@67.27.1213.997" timestamp="1577798270010" />
+    <state width="1167" height="321" key="GridCell.Tab.1.bottom" timestamp="1577793126171">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.bottom/67.27.1213.997@67.27.1213.997" timestamp="1577793126171" />
+    <state width="1167" height="321" key="GridCell.Tab.1.center" timestamp="1577793126170">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.center/67.27.1213.997@67.27.1213.997" timestamp="1577793126170" />
+    <state width="1167" height="321" key="GridCell.Tab.1.left" timestamp="1577793126170">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.left/67.27.1213.997@67.27.1213.997" timestamp="1577793126170" />
+    <state width="1167" height="321" key="GridCell.Tab.1.right" timestamp="1577793126171">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.right/67.27.1213.997@67.27.1213.997" timestamp="1577793126171" />
+    <state width="606" height="499" key="XDebugger.FullValuePopup" timestamp="1577691591755">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="606" height="499" key="XDebugger.FullValuePopup/67.27.1213.997@67.27.1213.997" timestamp="1577691591755" />
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1577766969596">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1577766969596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/fundoopush/FundooPushTesting.java</url>
+          <line>206</line>
+          <properties class="com.fundoopush.FundooPushTesting" method="givenFundooPush_OnPOSTHashtagEdit_ShouldReturnSuccessfullMessage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
